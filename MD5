@@ -1,0 +1,8 @@
+2d0308963e3615f55f737341b1e3cf19 *DESCRIPTION
+57ce84e92bc8e3348764c119f6014b01 *NAMESPACE
+e3e2786b167e987545cd05471cb00f04 *R/ss_functions.R
+c0bfe73873106253a966d1e922e201bd *data/example.data.RData
+a7200741e848ae536ccc9b006e313e91 *man/delta.calculate.Rd
+287d62bd25c5c73d82d780df61145c2c *man/est.power.Rd
+5f69892ae20cd07c10e3f69067534071 *man/example.data.Rd
+a27d38abc31149bc5585035f06fd2195 *man/test.surrogate.Rd
