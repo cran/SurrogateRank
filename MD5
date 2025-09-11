@@ -1,4 +1,4 @@
-80c9839b2a2005e6318bca34c630373c *DESCRIPTION
+3f3e9a66c286aee8167735a5b523495a *DESCRIPTION
 6587ad7694fa175f520955342a2eb27d *NAMESPACE
 6d1ad5296d85ae444ab82ca686879114 *R/delta.calculate.extension.R
 fda1990e76f6a59e8b4b53d60b5840c8 *R/est.power.R
@@ -7,9 +7,9 @@ fda1990e76f6a59e8b4b53d60b5840c8 *R/est.power.R
 e6d2c9cb9b3b3b70ad46c2cef972e929 *R/my.wilcox.R
 2a4f3ee8dab899f41e4318af870313f2 *R/rise.evaluate.R
 f0f3fc6644d7b14bc7bed28925d9e892 *R/rise.screen.R
-fd90125b18733a5c0c552f5fd1037647 *R/ss_functions.R
-a36e2fc9e1ec6734ad704b261787fbd0 *R/test.surrogate.extension.R
-d23d4b0bebdd523699e88cdef9476531 *R/test.surrogate.rise.R
+51ffb7ec6e1a4d4cb2036fc587f5e722 *R/ss_functions.R
+a41bb7982735decee2b9986723a7ad64 *R/test.surrogate.extension.R
+a5946a074b97424e99e1bc0de464e482 *R/test.surrogate.rise.R
 35b68b79573c4741d6a73e8de9a43719 *R/var.wil.R
 c0bfe73873106253a966d1e922e201bd *data/example.data.RData
 14b3704840d32ab0243be6c99573c3c3 *data/example.data.highdim.RData
